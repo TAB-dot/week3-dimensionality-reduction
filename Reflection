@@ -1,0 +1,11 @@
+Dimensionality reduction can introduce bias since the technique compresses data into fewer dimensions. 
+Although useful, the compression can unintentionally introduce bias from loss of important information of minority groups, overemphasis on dominating patterns, and distortion or relationships.
+
+Visualization choices are helpful, but they can affect interpretations in biased ways. 
+Summarizing data can hide variation within subgroups and therefore, hiding disparities. 
+In addition, the chart type selection highlights different aspects of data. Choosing one chart type over the other can shift views toward certain conclusions. 
+Also, changing the scale of the axes can exaggerate or minimize details, which influences how dramatic a trend is.
+
+Diverse perspectives can improve fairness in feature selection by challenging assumptions by questioning teams’ blind spots and hidden biases, 
+including voices from various communities to ensure the model accurately reflects real-world complexities, and understanding how certain features might give disadvantages to certain groups. 
+
